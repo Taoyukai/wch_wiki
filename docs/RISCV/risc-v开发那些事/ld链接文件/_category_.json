@@ -1,0 +1,7 @@
+{
+  "label": "ld链接文件",
+  "position": 4,
+  "link": {
+    "type": "generated-index"
+  }
+}
