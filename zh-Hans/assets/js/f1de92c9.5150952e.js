@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwch_wiki=self.webpackChunkwch_wiki||[]).push([[9551],{2439:function(l){l.exports=JSON.parse('{"label":"hello","permalink":"/zh-Hans/blog/tags/hello","allTagsPath":"/zh-Hans/blog/tags","count":2}')}}]);
