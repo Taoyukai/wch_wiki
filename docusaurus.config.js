@@ -47,7 +47,7 @@ const config = {
           //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve('./src/css/custom.css'), 
         },
       }),
     ],
@@ -140,6 +140,25 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
+    themes: [
+        // ... Your other themes.
+        [
+          require.resolve("@easyops-cn/docusaurus-search-local"),
+          {
+            // ... Your options.
+            // `hashed` is recommended as long-term-cache of index file is possible.
+            hashed: true,
+            language: ["en", "zh"],
+            highlightSearchTermsOnTargetPage: true,
+            explicitSearchResultPath: true,
+            // For Docs using Chinese, The `language` is recommended to set to:
+            // ```
+            // language: ["en", "zh"],
+            // ```
+          },
+        ],
+      ],
 };
 
 module.exports = config;
