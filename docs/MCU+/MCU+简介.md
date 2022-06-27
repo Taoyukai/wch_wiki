@@ -11,6 +11,5 @@ description: MCU+ 简介
 
 ## 2. 全栈MCU+
 
+![wch_mcu](img\wch_mcu.jpg)
 
-
-![MCU+](img\MCU+.jpg)
