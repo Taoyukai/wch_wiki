@@ -124,7 +124,7 @@ int main(void)
 
 
 
-注意以上两种配置方式完成后，还需要同步用户工程代码的ld链接文件中Flash 和 SRAM的大写，与用户选择字配置的大小保持一致。需要了解RISC-V MCU ld链接文件的可以查看该贴：[RISC-V MCU ld链接脚本说明](/docs/RISCV/risc-v开发那些事/ld链接文件/ld链接文件说明) 
+注意以上两种配置方式完成后，还需要同步用户工程代码的ld链接文件中Flash 和 SRAM的大小，与用户选择字配置的大小保持一致。需要了解RISC-V MCU ld链接文件的可以查看该贴：[RISC-V MCU ld链接脚本说明](/docs/RISCV/risc-v开发那些事/ld链接文件/ld链接文件说明) 
 
 ![v307_project_ld](img\v307_project_ld.png)
 
