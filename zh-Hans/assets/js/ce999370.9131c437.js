@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwch_wiki=self.webpackChunkwch_wiki||[]).push([[8576],{5112:function(s){s.exports=JSON.parse('{"label":"docusaurus","permalink":"/zh-Hans/blog/tags/docusaurus","allTagsPath":"/zh-Hans/blog/tags","count":4}')}}]);

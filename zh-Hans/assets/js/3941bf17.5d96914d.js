@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwch_wiki=self.webpackChunkwch_wiki||[]).push([[6197],{8999:function(s){s.exports=JSON.parse('{"permalink":"/zh-Hans/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
