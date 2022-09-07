@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wch.wiki/blog</id>
-    <title>wch wiki Blog</title>
+    <title>wch risc-v mcu wiki, unofficial Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wch.wiki/blog"/>
-    <subtitle>wch wiki Blog</subtitle>
+    <subtitle>wch risc-v mcu wiki, unofficial Blog</subtitle>
     <icon>https://wch.wiki/img/wch_logo.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
