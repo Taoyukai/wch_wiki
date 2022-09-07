@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-description:  RSIC-V MCU 开源项目
+description:  RISC-V MCU 开源项目
 ---
 
-# RSIC-V MCU 开源项目
+# RISC-V MCU 开源项目
 
 ## [1. RISC-V MCU原理与应用](/docs/category/rsic-v-mcu原理与应用)
 
