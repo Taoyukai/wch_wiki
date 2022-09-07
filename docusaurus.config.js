@@ -10,8 +10,8 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'wch wiki',
-  tagline: 'wch IC data collation, unofficial',
+  title: 'wch risc-v mcu wiki, unofficial',
+  //tagline: 'wch risc-v mcu wiki, unofficial',
   url: 'https://wch.wiki',
   baseUrl: '/',
   onBrokenLinks: 'throw',
