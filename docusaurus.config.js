@@ -11,7 +11,7 @@ const katex = require('rehype-katex');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'wch risc-v mcu wiki, unofficial',
-  //tagline: 'wch risc-v mcu wiki, unofficial',
+  tagline: 'QQ group: 668096767',
   url: 'https://wch.wiki',
   baseUrl: '/',
   onBrokenLinks: 'throw',

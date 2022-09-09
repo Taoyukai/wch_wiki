@@ -5,7 +5,5 @@ description: 介绍MCU的中断机制，讲解RISC-V的异常及中断管理
 
 # MCU的中断机制
 
-
-
 ## 1. 中断的概念
 
