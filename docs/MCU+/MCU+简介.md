@@ -13,6 +13,8 @@ description: MCU+ 简介
 
 ## 2. MCU+
 
+### [1. 32位超值型MCU CH32V003](/docs/category/ch32v003)
+
 ### [1. 32位增强型MCU CH32V203](/docs/category/ch32v203)
 
 ### [2. 32位互联型MCU CH32V307](/docs/category/ch32v307)
