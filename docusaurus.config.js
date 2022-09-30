@@ -16,7 +16,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/wch_logo.png',
+  favicon: 'img/RISCV_MCU.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -85,7 +85,7 @@ const config = {
         title: 'wch_wiki',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/wch_logo.png',
+          src: 'img/RISCV_MCU.png',
         },
         items: [
             {
