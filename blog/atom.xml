@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wch.wiki/blog"/>
     <subtitle>wch risc-v mcu wiki, unofficial Blog</subtitle>
-    <icon>https://wch.wiki/img/wch_logo.png</icon>
+    <icon>https://wch.wiki/img/RISCV_MCU.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
