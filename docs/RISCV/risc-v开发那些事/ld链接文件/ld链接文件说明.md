@@ -98,8 +98,8 @@ SECTIONS
 **allocatable**：该段内容被预留出，同时不应该加载任何其他内容（某些情况下，这些内存必须归零）。
 
 loadable和allocatable的section都有两个地址："**VMA**"和"**LMA**"。
-**VMA** (the vortual memory address)：运行输出文件时，该section的地址。可选项，可不配置。
- **LAM** (load memory address)：加载section时的地址。
+**VMA** (the virtual memory address)：运行输出文件时，该section的地址。可选项，可不配置。
+**LAM** (load memory address)：加载section时的地址。
 **在大多数情况下，这两个地址时相同的**。但有些情况下，需将代码从Flash中加载至RAM运行，此时Flash地址为LAM，RAM地址为VMA。如：
 
 ```c

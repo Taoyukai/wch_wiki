@@ -13,10 +13,20 @@ description: MCU+ 简介
 
 ## 2. MCU+
 
-### [1. 32位超值型MCU CH32V003](/docs/category/ch32v003)
+### [1. 32位超值型RISC-V MCU CH32V003](/docs/category/ch32v003)
 
-### [1. 32位增强型MCU CH32V203](/docs/category/ch32v203)
+### [2. 32位增强型RISC-V MCU CH32V203](/docs/category/ch32v203)
 
-### [2. 32位互联型MCU CH32V307](/docs/category/ch32v307)
+### [3. 32位互联型RISC-V MCU CH32V307](/docs/category/ch32v307)
 
-### [3. 32位无线型MCU CH32V208](/docs/category/ch32v208)
+### [4. 32位无线型RISC-V MCU CH32V208](/docs/category/ch32v208)
+
+
+
+:::tip
+
+了解更多RISC-V MCU可访问 **[沁恒微电子官网](https://www.wch.cn/products/categories/26.html?pid=5)**
+
+![riscv_mcu_selsct](img\riscv_mcu_selsct.svg)
+
+:::
