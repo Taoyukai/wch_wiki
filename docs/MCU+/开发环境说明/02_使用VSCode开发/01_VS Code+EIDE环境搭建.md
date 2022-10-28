@@ -75,3 +75,13 @@ eide还需要调用相应的工具链才可完成MCU的工程编译，
 通过github远程仓库模板新建工程，**需要保证能正常访问github**
 
 ![new_project_github](img\new_project_github.gif)
+
+:::caution
+
+github中的模板更新并不及时。
+
+模板中的sdk文件夹中的 Core、Debug、Ld、Peripheral、Startup文件夹可能并不是最新的,
+
+建议在[**官网下载**](https://www.wch.cn/)最新的evt，替换对应的文件即可。
+
+:::

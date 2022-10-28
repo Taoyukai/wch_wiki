@@ -21,12 +21,10 @@ description: MCU+ 简介
 
 ### [4. 32位无线型RISC-V MCU CH32V208](/docs/category/ch32v208)
 
-
+![riscv_mcu_selsct](img\riscv_mcu_selsct.svg)
 
 :::tip
 
 了解更多RISC-V MCU可访问 **[沁恒微电子官网](https://www.wch.cn/products/categories/26.html?pid=5)**
-
-![riscv_mcu_selsct](img\riscv_mcu_selsct.svg)
 
 :::
