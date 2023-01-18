@@ -94,12 +94,17 @@ SECTIONS
 链接脚本本质就是描述输入和输出。**secname**表示输出文件的段，而**output-section-command**用来描述输出文件的这个段从哪些文件里抽取而来，即输入目标文件**(.o)**和库文件**(.a)**。
 
 **Section** 分为**loadable**(可加载)和**allocatable**(可分配)两种类型。不可加载也不可分配的内存段，通常包含一些调c试等信息。
+
 **loadable**：程序运行时，该段应该被加载到内存中。
+
 **allocatable**：该段内容被预留出，同时不应该加载任何其他内容（某些情况下，这些内存必须归零）。
 
 loadable和allocatable的section都有两个地址："**VMA**"和"**LMA**"。
+
 **VMA** (the virtual memory address)：运行输出文件时，该section的地址。可选项，可不配置。
-**LAM** (load memory address)：加载section时的地址。
+
+**LMA** (load memory address)：加载section时的地址。
+
 **在大多数情况下，这两个地址时相同的**。但有些情况下，需将代码从Flash中加载至RAM运行，此时Flash地址为LAM，RAM地址为VMA。如：
 
 ```c

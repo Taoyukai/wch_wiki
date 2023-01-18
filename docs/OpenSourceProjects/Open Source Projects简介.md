@@ -28,6 +28,10 @@ export const Highlight = ({children, color}) => (
 
 基于沁恒增强型 RISC-V MCU [**CH32V203**](https://www.wch.cn/products/CH32V203.html?)，从零开始写一个实时操作系统（RTOS），深入了解任务的内存管理以及上下文切换。
 
+### [3. USB 开发入门](/docs/category/USB开发入门)
+
+基于沁恒互联型 RISC-V MCU [**CH32V307**](https://www.wch.cn/products/CH32V307.html)，介绍 USB 开发相关内容。
+
 ##  <Highlight color="#25c2a0">  二、Demo 应用 </Highlight>
 
 ### [1. CH32V003制作音乐频谱显示](/docs/OpenSourceProjects/demo_app/CH32V003制作音乐频谱显示)
